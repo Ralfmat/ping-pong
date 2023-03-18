@@ -1,6 +1,7 @@
 # ping pong
 Main screen:
-![image](https://user-images.githubusercontent.com/98969403/226130026-c79b3e27-9074-49fa-a5a3-e751c9882b43.png)
+
+![pingpong_main](https://user-images.githubusercontent.com/98969403/226130297-56bf69f0-eed2-4986-a87a-781edde045f3.gif)
 
 
 Gameplay:
