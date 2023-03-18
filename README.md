@@ -4,5 +4,5 @@ Main screen:
 
 
 Gameplay:
-https://user-images.githubusercontent.com/98969403/226130142-1672547a-30db-4881-8619-218024f127c2.mp4
 
+![pingpong_play](https://user-images.githubusercontent.com/98969403/226130208-4d2efe21-c09a-4fc6-b0ea-70bb6517a11a.gif)
